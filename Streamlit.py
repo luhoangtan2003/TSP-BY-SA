@@ -28,7 +28,7 @@ if Category == "TRANG CHỦ":
                    có thể giúp cải thiện quy trình vận chuyển và lưu kho.
                    </div>""", unsafe_allow_html=True)
 
-    Web.markdown("### Thuật toán hay cho bài toán")
+    Web.markdown("### Một số phương pháp thường dùng")
     Web.markdown("""
                    <div style="text-align: justify;">
                    Để xử lý bài toán dạng này, có rất nhiều phương pháp được áp dụng. Một trong số đó là thuật
