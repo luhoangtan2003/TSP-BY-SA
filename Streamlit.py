@@ -55,7 +55,8 @@ if Category == "TRANG CHỦ":
                    Dù có nhiều phương pháp khác nhau, việc chọn phương pháp thích hợp cho một bài toán cụ thể
                    đòi hỏi sự hiểu biết sâu sắc về đặc điểm của bài toán, cũng như sự đánh giá kỹ lưỡng về hiệu
                    suất và thời gian thực thi của các thuật toán. Đối với những bài toán lớn với hàng trăm hoặc
-                   hàng nghìn thành phố, việc tìm ra được giải pháp tối ưu có thể trở thành một thách thức đáng kể và việc kết hợp các phương pháp có thể là cách tiếp cận hiệu quả nhất để đạt được kết quả
+                   hàng nghìn thành phố, việc tìm ra được giải pháp tối ưu có thể trở thành một thách thức đáng
+                   kể và việc kết hợp các phương pháp có thể là cách tiếp cận hiệu quả nhất để đạt được kết quả
                    tốt nhất có thể.
                    </div>""", unsafe_allow_html=True)
 
